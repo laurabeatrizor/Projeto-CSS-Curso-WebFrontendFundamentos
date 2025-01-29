@@ -27,8 +27,7 @@ li {
     margin-left: 12px;
 }
 
-
-a {
+li a {
     background-color: rgba(0, 0, 0, 0.3);
     padding: 16px;
     display: block;

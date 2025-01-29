@@ -1,0 +1,35 @@
+main{
+    
+    width: 90%;
+    margin: auto;
+    min-width: 600px;
+    max-width: 860px;
+    
+}
+article{
+
+    background-color: white;
+    margin-left: 100px;
+    margin-top: 15px;
+    margin-bottom: 32px;
+    padding: 16px;
+    
+}
+
+h2{
+    background-color: rgb(228, 227, 227);
+    padding: 10px;
+    border-bottom: 2px solid rgb(190, 189, 189);
+    margin-top: 0%;
+}
+
+article a{
+
+    display: inline-block;
+    background-color: #ccc;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: blue;
+}
+
